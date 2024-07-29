@@ -7,5 +7,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fricardo-milos&psig=AOvVaw3fWeSPfurC3PBNLST31-MC&ust=1722343403302000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjrjKijzIcDFQAAAAAdAAAAABAE)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGliaGRsdG9zNW8xODlrYXNpNzJlMWNsaWFmbnRrajI2MG9ydHlybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UtcBRO8cxulRzkrVLc/giphy.gif)
 
