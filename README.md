@@ -5,6 +5,6 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ284ZWwxdjRwNGJrbW1lbzV6cW1uNWt2OHNubTRkN3JzcTZ5bGVsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yramGh9GKPelTKcoX5/giphy.gif](https://media1.tenor.com/m/9w0JGXsm4c4AAAAd/porsche-crew2.gif))
+![](https://i.pinimg.com/originals/9d/73/d0/9d73d089a72a0f2dc893c2f63561d779.gif)
 
 
